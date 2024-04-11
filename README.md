@@ -3,5 +3,5 @@
 - 🔭 En que estoy actualmente: Creación de Core para Red Social Interna
 - 🌱 Qué estoy aprendiendo: WebAssembly/CodeIgniter 4/GIT/Bootstrap/Java Springboot/NodeJS/KSP Script para Kontakt de NI
 - 📫 Cómo contactarme: rjcarrion77@hotmail.com
-- ⚡ Fun fact: Programming and Guitar Playing
+- ⚡ Fun fact: Programming and Guitar Playing 🤘
 
